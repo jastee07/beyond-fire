@@ -2,3 +2,7 @@ node_modules
 .DS_Store
 .env
 .env.*
+
+# Ralphy artifacts (do not commit)
+.ralphy/
+.ralphy-last-iteration.txt
